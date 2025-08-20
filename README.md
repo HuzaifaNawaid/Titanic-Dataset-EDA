@@ -50,3 +50,10 @@ It contains information like:
 - **First-class passengers** survived more often than third-class.
 - Passengers **with cabins** had higher survival chances.
 - Being **alone** lowered survival chances.
+
+## 📜 License
+This project is distributed under the **MIT License**. See `LICENSE` for more information.
+
+## 📞 Contact
+**Huzaifa Nawaid**  
+Email: huzaifanawaid.developer@gmail.com 
