@@ -56,4 +56,4 @@ This project is distributed under the **MIT License**. See `LICENSE` for more in
 
 ## 📞 Contact
 **Huzaifa Nawaid**  
-Email: huzaifanawaid.developer@gmail.com 
+Email: nawaidhuzaifa@gmail.com 
